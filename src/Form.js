@@ -1,4 +1,4 @@
-import React from "react";
+import React from 'react'
 
 export const Form = () => {
   return (
@@ -17,5 +17,5 @@ export const Form = () => {
       </div>
       <button type="submit">Submit</button>
     </form>
-  );
-};
+  )
+}
